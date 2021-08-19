@@ -1,9 +1,0 @@
-name: DayZ
-version: 1.0
-author: Eclipse
-main: github.EclipseBETA.DAYZ.DAYZ
-description: EclipseBETA's DayZ
-
-commands:
- dayz:
-  description: Main command of dayz
