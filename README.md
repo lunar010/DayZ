@@ -3,6 +3,11 @@
 # Tested Versions
   - 1.16.5 (spigot)
   - legacy error on 1.16.5
+# Commands
+  - /dayz
+  - /dayz help
+  - /dayz heal (dayz.heal)
+  - /dayz reload (dayz.reload)
 # In Development
   - **[BETA 1]**
     - Spawner system
