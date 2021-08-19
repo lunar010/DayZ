@@ -5,6 +5,13 @@
   - legacy error on 1.16.5
 # In Development
   - **[BETA 1]**
-  - Done: Zombie Armor system, Command system
-  - Current: Spawner system
-  - To Do: PK & ZK system, Config system, Weapon system, Box system
+    - Spawner system
+    - Command system (with some errors)
+  - **[BETA 2]**
+    - Command system (fixed errors)
+    - Debug system (on beta)
+    - Chest system (on beta)
+  - **[BETA 3]** Current
+    - Kill system
+    - Gui system
+    - Lobby system
